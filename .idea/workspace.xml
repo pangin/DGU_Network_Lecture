@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1a4852-6a86-49e6-8f32-271b1d43659b" name="Default Changelist" comment="" />
+    <list default="true" id="2c1a4852-6a86-49e6-8f32-271b1d43659b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/과제 3/Forking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/과제 3/ThreadTCPServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/실습1/socket.py" beforeDir="false" afterPath="$PROJECT_DIR$/실습 1/socket.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,39 +38,41 @@
     <session id="1756186595">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="40" />
+          <entry key="py" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="40" />
+          <entry key="Python" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
-          <entry key="py" value="9362" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="12594" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="9362" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="12594" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -72,8 +81,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/실습1/socket.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/실습 1/socket.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="855">
               <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
@@ -81,6 +90,48 @@
                 <element signature="e#182#192#0" expanded="true" />
                 <marker date="1541127342231" expanded="true" signature="235:240" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="829">
+              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1541867997099" expanded="true" signature="223:228" ph="..." />
+                <marker date="1541867997099" expanded="true" signature="299:308" ph="..." />
+                <marker date="1541867997099" expanded="true" signature="1127:1128" ph="..." />
+                <marker date="1541867997099" expanded="true" signature="1150:1159" ph="..." />
+                <marker date="1541867997099" expanded="true" signature="1541:1546" ph="..." />
+                <marker date="1541867997099" expanded="true" signature="1637:1642" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/과제 3/ThreadTCPServer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1541868819829" expanded="true" signature="200:205" ph="..." />
+                <marker date="1541868819829" expanded="true" signature="612:617" ph="..." />
+                <marker date="1541868819829" expanded="true" signature="965:970" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="702" column="8" selection-start-line="702" selection-start-column="8" selection-end-line="702" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -100,7 +151,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DGU_Network_Lecture" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -130,6 +181,9 @@
         <option value="$PROJECT_DIR$/과제 2/6.py" />
         <option value="$PROJECT_DIR$/과제 2/8.py" />
         <option value="$PROJECT_DIR$/실습1/socket.py" />
+        <option value="$PROJECT_DIR$/과제 3/0.py" />
+        <option value="$PROJECT_DIR$/과제 3/Forking.py" />
+        <option value="$PROJECT_DIR$/과제 3/ThreadTCPServer.py" />
       </list>
     </option>
   </component>
@@ -140,9 +194,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="981" />
+    <option name="x" value="843" />
+    <option name="width" value="837" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,12 +230,17 @@
             <path>
               <item name="네트워크프로그래밍및실험" type="b2602c69:ProjectViewProjectNode" />
               <item name="네트워크프로그래밍및실험" type="462c0819:PsiDirectoryNode" />
+              <item name="과제 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="네트워크프로그래밍및실험" type="b2602c69:ProjectViewProjectNode" />
+              <item name="네트워크프로그래밍및실험" type="462c0819:PsiDirectoryNode" />
               <item name="실습 0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="네트워크프로그래밍및실험" type="b2602c69:ProjectViewProjectNode" />
               <item name="네트워크프로그래밍및실험" type="462c0819:PsiDirectoryNode" />
-              <item name="실습1" type="462c0819:PsiDirectoryNode" />
+              <item name="실습 1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,6 +252,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -353,10 +413,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="843" y="0" width="837" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2869353" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25786164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -557,13 +617,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/실습1/socket.py">
+    <entry file="file://$PROJECT_DIR$/../한국기술교육대학교 근로장학생 선발 알리미/KUT_GJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/실습 1/socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
           <folding>
             <element signature="e#182#192#0" expanded="true" />
             <marker date="1541127342231" expanded="true" signature="235:240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="702" column="8" selection-start-line="702" selection-start-column="8" selection-end-line="702" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1541867997099" expanded="true" signature="223:228" ph="..." />
+            <marker date="1541867997099" expanded="true" signature="299:308" ph="..." />
+            <marker date="1541867997099" expanded="true" signature="1127:1128" ph="..." />
+            <marker date="1541867997099" expanded="true" signature="1150:1159" ph="..." />
+            <marker date="1541867997099" expanded="true" signature="1541:1546" ph="..." />
+            <marker date="1541867997099" expanded="true" signature="1637:1642" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/과제 3/ThreadTCPServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1541868819829" expanded="true" signature="200:205" ph="..." />
+            <marker date="1541868819829" expanded="true" signature="612:617" ph="..." />
+            <marker date="1541868819829" expanded="true" signature="965:970" ph="..." />
           </folding>
         </state>
       </provider>
