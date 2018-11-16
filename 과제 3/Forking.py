@@ -22,7 +22,7 @@ class ForkedClient():
         # Send the data to server
         current_process_id = os.getpid()
         print("PID ", current_process_id, "Sending echo message to the server : ", ECHO_MSG)
-        sent_data_length = self.sock.send(ECHO_MSG)
+        sent_data_length = self.sock.send(bytearray(ECHO_MSG, 'utf-8'))
         print("Sent: ", sent_data_length, "characters. so far...")
 
         # Display server response
@@ -41,7 +41,7 @@ class ForkingServerRequestHandler(socketserver.BaseRequestHandler):
         current_process_id = os.getpid()
         response = '%s: %s' % (current_process_id, data)
         print("Server sending response [current_process_id: data] = ", response)
-        self.request.send(response)
+        self.request.send(bytearray(response, 'utf-8'))
         return
 
 class ForkingServer(socketserver.ForkingMixIn, socketserver.TCPServer, ):

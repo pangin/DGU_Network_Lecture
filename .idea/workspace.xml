@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c1a4852-6a86-49e6-8f32-271b1d43659b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/과제 3/Forking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/과제 3/ThreadTCPServer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/실습1/socket.py" beforeDir="false" afterPath="$PROJECT_DIR$/실습 1/socket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/과제 3/Forking.py" beforeDir="false" afterPath="$PROJECT_DIR$/과제 3/Forking.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/$Forking.coverage" NAME="Forking Coverage Results" MODIFIED="1542292882931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
     <SUITE FILE_PATH="coverage/$socket.coverage" NAME="socket Coverage Results" MODIFIED="1541127661807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/실습1" />
     <SUITE FILE_PATH="coverage/$3_4.coverage" NAME="3-4 Coverage Results" MODIFIED="1537276262182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$6.coverage" NAME="6 Coverage Results" MODIFIED="1539526535365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$7.coverage" NAME="7 Coverage Results" MODIFIED="1539312608304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
+    <SUITE FILE_PATH="coverage/$socket__1_.coverage" NAME="socket (1) Coverage Results" MODIFIED="1542291505068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/실습 1" />
     <SUITE FILE_PATH="coverage/$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1537268138054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$3.coverage" NAME="3 Coverage Results" MODIFIED="1539312240501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
     <SUITE FILE_PATH="coverage/$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1537268094201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
@@ -30,7 +28,9 @@
     <SUITE FILE_PATH="coverage/$2.coverage" NAME="2 Coverage Results" MODIFIED="1539525278211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$4.coverage" NAME="4 Coverage Results" MODIFIED="1539525798394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$3_6.coverage" NAME="3-6 Coverage Results" MODIFIED="1537268376114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$socketserver.coverage" NAME="socketserver Coverage Results" MODIFIED="1542291556594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
     <SUITE FILE_PATH="coverage/$5.coverage" NAME="5 Coverage Results" MODIFIED="1539312252916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
+    <SUITE FILE_PATH="coverage/$ThreadTCPServer.coverage" NAME="ThreadTCPServer Coverage Results" MODIFIED="1542292804786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
     <SUITE FILE_PATH="coverage/$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1537268164541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1539311929438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
   </component>
@@ -38,10 +38,10 @@
     <session id="1756186595">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
@@ -49,30 +49,30 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="44" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="44" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="py" value="12594" />
+          <entry key="py" value="12639" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="12594" />
+          <entry key="Python" value="12639" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -82,41 +82,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/실습 1/socket.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
-              <folding>
-                <element signature="e#182#192#0" expanded="true" />
-                <marker date="1541127342231" expanded="true" signature="235:240" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1541867997099" expanded="true" signature="223:228" ph="..." />
-                <marker date="1541867997099" expanded="true" signature="299:308" ph="..." />
-                <marker date="1541867997099" expanded="true" signature="1127:1128" ph="..." />
-                <marker date="1541867997099" expanded="true" signature="1150:1159" ph="..." />
-                <marker date="1541867997099" expanded="true" signature="1541:1546" ph="..." />
-                <marker date="1541867997099" expanded="true" signature="1637:1642" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/과제 3/ThreadTCPServer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            <state relative-caret-position="527">
+              <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1541868819829" expanded="true" signature="200:205" ph="..." />
@@ -127,11 +96,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="702" column="8" selection-start-line="702" selection-start-column="8" selection-end-line="702" selection-end-column="8" />
+            <state relative-caret-position="373">
+              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1542292430886" expanded="true" signature="223:228" ph="..." />
+                <marker date="1542292430886" expanded="true" signature="299:308" ph="..." />
+                <marker date="1542292430886" expanded="true" signature="1147:1148" ph="..." />
+                <marker date="1542292430886" expanded="true" signature="1170:1179" ph="..." />
+                <marker date="1542292430886" expanded="true" signature="1581:1586" ph="..." />
+                <marker date="1542292430886" expanded="true" signature="1677:1682" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,8 +160,8 @@
         <option value="$PROJECT_DIR$/과제 2/8.py" />
         <option value="$PROJECT_DIR$/실습1/socket.py" />
         <option value="$PROJECT_DIR$/과제 3/0.py" />
-        <option value="$PROJECT_DIR$/과제 3/Forking.py" />
         <option value="$PROJECT_DIR$/과제 3/ThreadTCPServer.py" />
+        <option value="$PROJECT_DIR$/과제 3/Forking.py" />
       </list>
     </option>
   </component>
@@ -204,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,6 +223,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.socket">
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Forking">
+    <configuration name="Forking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="네트워크프로그래밍및실험" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 2/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 3/Forking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ThreadTCPServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="네트워크프로그래밍및실험" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,12 +280,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 2/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 3/ThreadTCPServer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="socket (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="네트워크프로그래밍및실험" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,34 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/실습 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 2/6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="네트워크프로그래밍및실험" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 2/8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/실습 1/socket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,20 +338,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="socketserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="네트워크프로그래밍및실험" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2" />
-      <item itemvalue="Python.4" />
-      <item itemvalue="Python.6" />
-      <item itemvalue="Python.8" />
       <item itemvalue="Python.socket" />
+      <item itemvalue="Python.ThreadTCPServer" />
+      <item itemvalue="Python.Forking" />
+      <item itemvalue="Python.socket (1)" />
+      <item itemvalue="Python.socketserver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Forking" />
+        <item itemvalue="Python.ThreadTCPServer" />
+        <item itemvalue="Python.socketserver" />
+        <item itemvalue="Python.socket (1)" />
         <item itemvalue="Python.socket" />
-        <item itemvalue="Python.8" />
-        <item itemvalue="Python.6" />
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.2" />
       </list>
     </recent_temporary>
   </component>
@@ -413,10 +391,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="843" y="0" width="837" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25786164" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12759463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -628,7 +605,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/실습 1/socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="505">
           <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
           <folding>
             <element signature="e#182#192#0" expanded="true" />
@@ -637,38 +614,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/test/test_logging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="702" column="8" selection-start-line="702" selection-start-column="8" selection-end-line="702" selection-end-column="8" />
+        <state relative-caret-position="210">
+          <caret line="924" column="20" selection-start-line="924" selection-start-column="20" selection-end-line="924" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1541867997099" expanded="true" signature="223:228" ph="..." />
-            <marker date="1541867997099" expanded="true" signature="299:308" ph="..." />
-            <marker date="1541867997099" expanded="true" signature="1127:1128" ph="..." />
-            <marker date="1541867997099" expanded="true" signature="1150:1159" ph="..." />
-            <marker date="1541867997099" expanded="true" signature="1541:1546" ph="..." />
-            <marker date="1541867997099" expanded="true" signature="1637:1642" ph="..." />
-          </folding>
+        <state relative-caret-position="7187">
+          <caret line="702" column="8" selection-start-line="702" selection-start-column="8" selection-end-line="702" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/과제 3/ThreadTCPServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="527">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1541868819829" expanded="true" signature="200:205" ph="..." />
             <marker date="1541868819829" expanded="true" signature="612:617" ph="..." />
             <marker date="1541868819829" expanded="true" signature="965:970" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1542292430886" expanded="true" signature="223:228" ph="..." />
+            <marker date="1542292430886" expanded="true" signature="299:308" ph="..." />
+            <marker date="1542292430886" expanded="true" signature="1147:1148" ph="..." />
+            <marker date="1542292430886" expanded="true" signature="1170:1179" ph="..." />
+            <marker date="1542292430886" expanded="true" signature="1581:1586" ph="..." />
+            <marker date="1542292430886" expanded="true" signature="1677:1682" ph="..." />
           </folding>
         </state>
       </provider>
