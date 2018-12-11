@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c1a4852-6a86-49e6-8f32-271b1d43659b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/과제 4/PythonHybridChat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/과제 5/Simple_HTTPS_Server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/과제 5/spoof_as_firefox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/과제 6/get_FTP_file_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/과제 6/upload_FTP_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/네트워크프로그래밍및실험.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/네트워크프로그래밍및실험.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,113 +17,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/$Forking.coverage" NAME="Forking Coverage Results" MODIFIED="1542292882931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
-    <SUITE FILE_PATH="coverage/$socket.coverage" NAME="socket Coverage Results" MODIFIED="1541127661807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/실습1" />
     <SUITE FILE_PATH="coverage/$3_4.coverage" NAME="3-4 Coverage Results" MODIFIED="1537276262182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$5.coverage" NAME="5 Coverage Results" MODIFIED="1539312252916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
+    <SUITE FILE_PATH="coverage/$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1537268138054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$get_FTP_file_list.coverage" NAME="get_FTP_file_list Coverage Results" MODIFIED="1544493529834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 6" />
+    <SUITE FILE_PATH="coverage/$3.coverage" NAME="3 Coverage Results" MODIFIED="1539312240501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2 Coverage Results" MODIFIED="1539525278211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$socketserver.coverage" NAME="socketserver Coverage Results" MODIFIED="1542291556594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
     <SUITE FILE_PATH="coverage/$6.coverage" NAME="6 Coverage Results" MODIFIED="1539526535365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$7.coverage" NAME="7 Coverage Results" MODIFIED="1539312608304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
-    <SUITE FILE_PATH="coverage/$socket__1_.coverage" NAME="socket (1) Coverage Results" MODIFIED="1542291505068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/실습 1" />
-    <SUITE FILE_PATH="coverage/$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1537268138054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$3.coverage" NAME="3 Coverage Results" MODIFIED="1539312240501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
-    <SUITE FILE_PATH="coverage/$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1537268094201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1537274904274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4 Coverage Results" MODIFIED="1539525798394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$2_7.coverage" NAME="2-7 Coverage Results" MODIFIED="1537421632339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
     <SUITE FILE_PATH="coverage/$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1537271764187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$8.coverage" NAME="8 Coverage Results" MODIFIED="1541127657282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1537274904274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2 Coverage Results" MODIFIED="1539525278211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4 Coverage Results" MODIFIED="1539525798394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$Forking.coverage" NAME="Forking Coverage Results" MODIFIED="1542292882931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
+    <SUITE FILE_PATH="coverage/$socket.coverage" NAME="socket Coverage Results" MODIFIED="1541127661807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/실습1" />
+    <SUITE FILE_PATH="coverage/$socket__1_.coverage" NAME="socket (1) Coverage Results" MODIFIED="1542291505068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/실습 1" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1539311929438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
+    <SUITE FILE_PATH="coverage/$Simple_HTTPS_Server.coverage" NAME="Simple_HTTPS_Server Coverage Results" MODIFIED="1544081375954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 5" />
+    <SUITE FILE_PATH="coverage/$spoof_as_firefox.coverage" NAME="spoof_as_firefox Coverage Results" MODIFIED="1544081372594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 5" />
     <SUITE FILE_PATH="coverage/$3_6.coverage" NAME="3-6 Coverage Results" MODIFIED="1537268376114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$socketserver.coverage" NAME="socketserver Coverage Results" MODIFIED="1542291556594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-    <SUITE FILE_PATH="coverage/$5.coverage" NAME="5 Coverage Results" MODIFIED="1539312252916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
     <SUITE FILE_PATH="coverage/$ThreadTCPServer.coverage" NAME="ThreadTCPServer Coverage Results" MODIFIED="1542292804786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
     <SUITE FILE_PATH="coverage/$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1537268164541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
-    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1539311929438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 3" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1756186595">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="47" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="47" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="16" />
-          <entry key="py" value="12844" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="12844" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
+    <SUITE FILE_PATH="coverage/$8.coverage" NAME="8 Coverage Results" MODIFIED="1541127657282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
+    <SUITE FILE_PATH="coverage/$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1537268094201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/과제 2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제 3/ThreadTCPServer.py">
+        <entry file="file://$PROJECT_DIR$/과제 6/get_FTP_file_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" lean-forward="true" selection-end-line="52" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1541868819829" expanded="true" signature="200:205" ph="..." />
-                <marker date="1541868819829" expanded="true" signature="612:617" ph="..." />
-                <marker date="1541868819829" expanded="true" signature="965:970" ph="..." />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/과제 4/PythonHybridChat.py">
+        <entry file="file://$PROJECT_DIR$/과제 6/upload_FTP_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
-              <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1542872327053" expanded="true" signature="1692:1693" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="37" column="21" lean-forward="true" selection-end-line="73" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -172,20 +111,16 @@
         <option value="$PROJECT_DIR$/과제 3/ThreadTCPServer.py" />
         <option value="$PROJECT_DIR$/과제 3/Forking.py" />
         <option value="$PROJECT_DIR$/과제 4/PythonHybridChat.py" />
+        <option value="$PROJECT_DIR$/과제 5/spoof_as_firefox.py" />
+        <option value="$PROJECT_DIR$/과제 5/Simple_HTTPS_Server.py" />
+        <option value="$PROJECT_DIR$/과제 6/get_FTP_file_list.py" />
+        <option value="$PROJECT_DIR$/과제 6/upload_FTP_file.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="843" />
-    <option name="y" value="23" />
-    <option name="width" value="837" />
-    <option name="height" value="973" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,6 +164,16 @@
             <path>
               <item name="네트워크프로그래밍및실험" type="b2602c69:ProjectViewProjectNode" />
               <item name="네트워크프로그래밍및실험" type="462c0819:PsiDirectoryNode" />
+              <item name="과제 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="네트워크프로그래밍및실험" type="b2602c69:ProjectViewProjectNode" />
+              <item name="네트워크프로그래밍및실험" type="462c0819:PsiDirectoryNode" />
+              <item name="과제 6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="네트워크프로그래밍및실험" type="b2602c69:ProjectViewProjectNode" />
+              <item name="네트워크프로그래밍및실험" type="462c0819:PsiDirectoryNode" />
               <item name="실습 0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -239,14 +185,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -265,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Forking">
+  <component name="RunManager" selected="Python.get_FTP_file_list">
     <configuration name="Forking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="네트워크프로그래밍및실험" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,6 +226,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 3/Forking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Simple_HTTPS_Server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="네트워크프로그래밍및실험" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 5/Simple_HTTPS_Server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socket (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_FTP_file_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="네트워크프로그래밍및실험" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,12 +286,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/실습 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/실습 1/socket.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 6/get_FTP_file_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="spoof_as_firefox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="네트워크프로그래밍및실험" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,34 +308,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/실습1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/과제 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/실습1/socket.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="socketserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="네트워크프로그래밍및실험" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 5/spoof_as_firefox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,19 +323,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.socket" />
       <item itemvalue="Python.ThreadTCPServer" />
       <item itemvalue="Python.Forking" />
-      <item itemvalue="Python.socket (1)" />
-      <item itemvalue="Python.socketserver" />
+      <item itemvalue="Python.spoof_as_firefox" />
+      <item itemvalue="Python.Simple_HTTPS_Server" />
+      <item itemvalue="Python.get_FTP_file_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_FTP_file_list" />
+        <item itemvalue="Python.Simple_HTTPS_Server" />
+        <item itemvalue="Python.spoof_as_firefox" />
         <item itemvalue="Python.Forking" />
         <item itemvalue="Python.ThreadTCPServer" />
-        <item itemvalue="Python.socketserver" />
-        <item itemvalue="Python.socket (1)" />
-        <item itemvalue="Python.socket" />
       </list>
     </recent_temporary>
   </component>
@@ -403,19 +349,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536283187695</updated>
+      <workItem from="1543905554187" duration="894000" />
+      <workItem from="1543906687133" duration="701000" />
+      <workItem from="1544005497420" duration="3733000" />
+      <workItem from="1544081175610" duration="536000" />
+      <workItem from="1544492333417" duration="1680000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13003664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13614164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,9 +412,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/과제 0/예제1.py">
@@ -637,8 +588,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/과제 3/ThreadTCPServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="true" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="20" column="20" selection-end-line="52" selection-end-column="21" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1541868819829" expanded="true" signature="200:205" ph="..." />
@@ -648,24 +599,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/과제 4/PythonHybridChat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1542872327053" expanded="true" signature="1692:1693" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/과제 3/Forking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="37" column="21" lean-forward="true" selection-end-line="73" selection-end-column="10" />
+        <state relative-caret-position="510">
+          <caret line="37" column="21" selection-end-line="73" selection-end-column="10" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/과제 4/PythonHybridChat.py">
+    <entry file="file://$PROJECT_DIR$/과제 5/Simple_HTTPS_Server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1542872327053" expanded="true" signature="1692:1693" ph="..." />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/과제 5/spoof_as_firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/과제 6/get_FTP_file_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/과제 6/upload_FTP_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
